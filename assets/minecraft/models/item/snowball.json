@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/snowball"
+    },
+
+    "overrides": [
+        { "predicate": { "custom_model_data": 1 }, "model": "item/custom/bomb" },
+        { "predicate": { "custom_model_data": 2 }, "model": "item/custom/pokemon/vol" }
+    ]
+}

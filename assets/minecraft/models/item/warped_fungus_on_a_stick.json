@@ -1,0 +1,17 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/warped_fungus_on_a_stick"
+    },
+
+    "overrides": [
+        { "predicate": { "custom_model_data": 1 }, "model": "item/custom/report" },
+        { "predicate": { "custom_model_data": 2 }, "model": "item/custom/skull" },
+        { "predicate": { "custom_model_data": 3 }, "model": "item/custom/triforce" },
+        { "predicate": { "custom_model_data": 4 }, "model": "item/custom/meteor" },
+        { "predicate": { "custom_model_data": 5 }, "model": "item/custom/pistol_assassin" },
+        { "predicate": { "custom_model_data": 6 }, "model": "item/custom/emergency/trou_noir" },
+        { "predicate": { "custom_model_data": 7 }, "model": "item/custom/goku/genkidama" },
+        { "predicate": { "custom_model_data": 8 }, "model": "item/custom/yasuo/ult_yasuo" }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "doomfist.ult": { "category": "neutral", "sounds": [{ "name": "ssl:doomfist/ult", "stream": true }] },
+    "doomfist.kill": { "category": "neutral", "sounds": [{ "name": "ssl:doomfist/kill", "stream": true }] },
+    "doomfist.dash": { "category": "neutral", "sounds": [{ "name": "ssl:doomfist/dash", "stream": false }] },
+    "doomfist.upercut": {
+        "category": "neutral",
+        "sounds": [
+            { "name": "ssl:doomfist/upercut1", "stream": false, "weight": 1 },
+            { "name": "ssl:doomfist/upercut2", "stream": false, "weight": 1 },
+            { "name": "ssl:doomfist/upercut3", "stream": false, "weight": 1 },
+            { "name": "ssl:doomfist/upercut4", "stream": false, "weight": 1 }
+        ]
+    },
+    "doomfist.fin_ult": { "category": "neutral", "sounds": [{ "name": "ssl:doomfist/fin_ult", "stream": true }] },
+    "doomfist.chargement": { "category": "neutral", "sounds": [{ "name": "ssl:doomfist/chargement", "stream": true }] },
+    "doomfist.pendant_ult": { "category": "neutral", "sounds": [{ "name": "ssl:doomfist/pendant_ult", "stream": true }] },
+    "doomfist.ult.ready": { "category": "neutral", "sounds": [{ "name": "ssl:doomfist/ult.ready", "stream": true }] },
+
+    "bomberman.ult": { "category": "neutral", "sounds": [{ "name": "ssl:bomberman/ult", "stream": false }] },
+    "bomberman.kick": { "category": "neutral", "sounds": [{ "name": "ssl:bomberman/kick", "stream": false }] },
+    "bomberman.firework": { "category": "neutral", "sounds": [{ "name": "ssl:bomberman/firework", "stream": false }] },
+    "bomberman.bomb": { "category": "neutral", "sounds": [{ "name": "ssl:bomberman/bomb", "stream": false }] },
+
+    "crewmate.bouton": { "category": "neutral", "sounds": [{ "name": "ssl:crewmate/bouton", "stream": true }] },
+    "crewmate.meeting": { "category": "neutral", "sounds": [{ "name": "ssl:crewmate/meeting", "stream": true }] },
+    "crewmate.kill": { "category": "neutral", "sounds": [{ "name": "ssl:crewmate/kill", "stream": true }] },
+    "crewmate.alarm": { "category": "neutral", "sounds": [{ "name": "ssl:crewmate/alarm", "stream": true }] },
+    "crewmate.vent": { "category": "neutral", "sounds": [{ "name": "ssl:crewmate/vent", "stream": true }] },
+    "crewmate.eject": { "category": "neutral", "sounds": [{ "name": "ssl:crewmate/eject", "stream": true }] },
+    "crewmate.ult": { "category": "neutral", "sounds": [{ "name": "ssl:crewmate/ult", "stream": true }] },
+    "crewmate.punch": { "category": "neutral", "sounds": [{ "name": "ssl:crewmate/punch", "stream": true }] },
+
+    "mario.kill": { "category": "neutral", "sounds": [{ "name": "ssl:mario/kill", "stream": true }] },
+    "mario.thwomp": { "category": "neutral", "sounds": [{ "name": "ssl:mario/thwomp", "stream": true }] },
+    "mario.bill_ball_in": { "category": "neutral", "sounds": [{ "name": "ssl:mario/bill_ball_in", "stream": true }] },
+    "mario.bill_ball_end": { "category": "neutral", "sounds": [{ "name": "ssl:mario/bill_ball_end", "stream": true }] },
+    "mario.powerup": { "category": "neutral", "sounds": [{ "name": "ssl:mario/powerup", "stream": true }] },
+    "mario.warning": { "category": "neutral", "sounds": [{ "name": "ssl:mario/warning", "stream": false }] },
+    "mario.jump": { "category": "neutral", "sounds": [{ "name": "ssl:mario/jump", "stream": false }] },
+    "mario.cappy": { "category": "neutral", "sounds": [{ "name": "ssl:mario/cappy", "stream": false }] },
+    "mario.final": { "category": "neutral", "sounds": [{ "name": "ssl:mario/final", "stream": false }] },
+
+
+    "goku.teleport": { "category": "neutral", "sounds": [{ "name": "ssl:goku/teleport", "stream": true }] },
+    "goku.kamehameha": { "category": "neutral", "sounds": [{ "name": "ssl:goku/kamehameha", "stream": true }] },
+    "goku.saiyan.all": { "category": "neutral", "sounds": [{ "name": "ssl:goku/saiyanall", "stream": true }] },
+    "goku.saiyan.alone": { "category": "neutral", "sounds": [{ "name": "ssl:goku/saiyanalone", "stream": true }] },
+    "goku.ult.chargement": { "category": "neutral", "sounds": [{ "name": "ssl:goku/chargement_ult", "stream": true }] },
+    "goku.kill": { "category": "neutral", "sounds": [{ "name": "ssl:goku/kill", "stream": true }] },
+    "goku.ult": { "category": "neutral", "sounds": [{ "name": "ssl:goku/ult", "stream": true }] },
+
+    "wright.objection": { "category": "neutral", "sounds": [{ "name": "ssl:wright/objection", "stream": true }] },
+    "wright.hold_it": { "category": "neutral", "sounds": [{ "name": "ssl:wright/hold_it", "stream": true }] },
+    "wright.take_that": { "category": "neutral", "sounds": [{ "name": "ssl:wright/take_that", "stream": true }] },
+
+    "win": { "category": "neutral", "sounds": [{ "name": "ssl:letsgo/win", "stream": false }] },
+
+    "emergency.tire": { "category": "neutral", "sounds": [{ "name": "ssl:emergency/tire", "stream": true }] },
+    "emergency.tp": { "category": "neutral", "sounds": [{ "name": "ssl:emergency/tp", "stream": true }] },
+    "emergency.win": { "category": "neutral", "sounds": [{ "name": "ssl:emergency/win", "stream": true }] },
+    "emergency.trou_noir": { "category": "neutral", "sounds": [{ "name": "ssl:emergency/trou_noir", "stream": true }] },
+    "emergency.give_ult": { "category": "neutral", "sounds": [{ "name": "ssl:emergency/give_ult", "stream": true }] },
+    "emergency.cube": { "category": "neutral", "sounds": [{ "name": "ssl:emergency/cube", "stream": true }] },
+    "emergency.kill": { "category": "neutral", "sounds": [{ "name": "ssl:emergency/kill", "stream": true }] },
+
+    "cooldown": { "category": "neutral", "sounds": [{ "name": "ssl:game/cooldown", "stream": false }] },
+
+    "game": { "category": "neutral", "sounds": [{ "name": "ssl:game/game", "stream": false }] },
+    "team_win": { "category": "neutral", "sounds": [{ "name": "ssl:game/team_win", "stream": false }] },
+
+    "pokemon.demeteros": { "category": "neutral", "sounds": [{ "name": "ssl:pokemon/demeteros", "stream": true }] },
+    "pokemon.fulguris": { "category": "neutral", "sounds": [{ "name": "ssl:pokemon/fulguris", "stream": true }] },
+    "pokemon.boreas": { "category": "neutral", "sounds": [{ "name": "ssl:pokemon/boreas", "stream": true }] },
+    "pokemon.ult": { "category": "neutral", "sounds": [{ "name": "ssl:pokemon/ult", "stream": true }] },
+    "pokemon.kill": { "category": "neutral", "sounds": [{ "name": "ssl:pokemon/kill", "stream": true }] },
+    "pokemon.ballout": { "category": "neutral", "sounds": [{ "name": "ssl:pokemon/ball_out", "stream": true }] },
+    "pokemon.balloutfail": { "category": "neutral", "sounds": [{ "name": "ssl:pokemon/ball_out_fail", "stream": true }] },
+    "pokemon.wait": { "category": "neutral", "sounds": [{ "name": "ssl:pokemon/wait", "stream": true }] },
+    "pokemon.fly": { "category": "neutral", "sounds": [{ "name": "ssl:pokemon/fly", "stream": true }] },
+    "pokemon.ballthrow": { "category": "neutral", "sounds": [{ "name": "ssl:pokemon/ball_throw", "stream": true }] },
+
+    "yasuo.give_ult": { "category": "neutral", "sounds": [{ "name": "ssl:yasuo/give_ult", "stream": false }] },
+    "yasuo.kill": { "category": "neutral", "sounds": [{ "name": "ssl:yasuo/kill1", "stream": false, "weight": 1 }, { "name": "ssl:yasuo/kill2", "stream": false, "weight": 1 }] },
+    "yasuo.fin_ult": { "category": "neutral", "sounds": [{ "name": "ssl:yasuo/ult1", "stream": false, "weight": 2 }, { "name": "ssl:yasuo/ult2", "stream": false, "weight": 1 }] },
+    "yasuo.tornade": { "category": "neutral", "sounds": [{ "name": "ssl:yasuo/tornade1", "stream": false, "weight": 1 }, { "name": "ssl:yasuo/tornade2", "stream": false, "weight": 1 }] },
+    "yasuo.dash_up": { "category": "neutral", "sounds": [{ "name": "ssl:yasuo/dash_up", "stream": false }] },
+    "yasuo.ult_debut": { "category": "neutral", "sounds": [{ "name": "ssl:yasuo/ult_debut", "stream": false }] },
+    "yasuo.wind_wall": { "category": "neutral", "sounds": [{ "name": "ssl:yasuo/wind_wall", "stream": false }] },
+
+
+
+    "assassin.coup_lame": { "category": "neutral", "sounds": [{ "name": "ssl:assassin/coup_lame", "stream": false }] },
+    "assassin.fin_invisible": { "category": "neutral", "sounds": [{ "name": "ssl:assassin/fin_invisible", "stream": false }] },
+    "assassin.invisible": { "category": "neutral", "sounds": [{ "name": "ssl:assassin/invisible", "stream": false }] },
+    "assassin.kill": { "category": "neutral", "sounds": [{ "name": "ssl:assassin/kill", "stream": false }] },
+    "assassin.lancement_fouet": { "category": "neutral", "sounds": [{ "name": "ssl:assassin/lancement_fouet", "stream": false }] },
+    "assassin.pendant_invisible": { "category": "neutral", "sounds": [{ "name": "ssl:assassin/pendant_invisible", "stream": false }] },
+    "assassin.sort_lame": { "category": "neutral", "sounds": [{ "name": "ssl:assassin/sort_lame", "stream": false }] },
+    "assassin.hit_fouet": { "category": "neutral", "sounds": [{ "name": "ssl:assassin/hit_fouet", "stream": false }] },
+    "assassin.give_ult": { "category": "neutral", "sounds": [{ "name": "ssl:assassin/give_ult", "stream": false }] },
+    "assassin.ult": {
+        "category": "neutral",
+        "sounds": [
+            { "name": "ssl:assassin/ulti1", "stream": true, "weight": 1 },
+            { "name": "ssl:assassin/ulti2", "stream": true, "weight": 1 }
+        ]
+    },
+    "assassin.pistol": {
+        "category": "neutral",
+        "sounds": [
+            { "name": "ssl:assassin/pistol1", "stream": true, "weight": 1 },
+            { "name": "ssl:assassin/pistol2", "stream": true, "weight": 1 },
+            { "name": "ssl:assassin/pistol3", "stream": true, "weight": 1 },
+            { "name": "ssl:assassin/pistol4", "stream": true, "weight": 1 }
+        ]
+    },
+
+
+    "link.kill": { "category": "neutral", "sounds": [{ "name": "ssl:link/kill", "stream": false }] },
+    "link.give_ult": { "category": "neutral", "sounds": [{ "name": "ssl:link/give_ult", "stream": false }] },
+    "link.fin_ult": { "category": "neutral", "sounds": [{ "name": "ssl:link/fin_ult", "stream": false }] },
+    "link.timer_ult": { "category": "neutral", "sounds": [{ "name": "ssl:link/timer_ult", "stream": true }] },
+    "link.tape_ult": { "category": "neutral", "sounds": [{ "name": "ssl:link/tape_ult", "stream": true }] },
+    "link.grappin": { "category": "neutral", "sounds": [{ "name": "ssl:link/grappin", "stream": true }] },
+    "link.lancer_grappin": { "category": "neutral", "sounds": [{ "name": "ssl:link/lancer_grappin", "stream": false }] },
+    "link.set_ult": { "category": "neutral", "sounds": [{ "name": "ssl:link/set_ult", "stream": false }] },
+    "link.potion": { "category": "neutral", "sounds": [{ "name": "ssl:link/potion", "stream": false }] },
+    "link.heal": { "category": "neutral", "sounds": [{ "name": "ssl:link/heal", "stream": false }] },
+
+
+
+
+
+    "music": { "category": "neutral", "sounds": [{ "name": "ssl:game/music", "stream": false }] },
+    "music2": { "category": "neutral", "sounds": [{ "name": "ssl:game/music2", "stream": false }] },
+    "final": { "category": "neutral", "sounds": [{ "name": "ssl:game/final", "stream": false }] },
+
+    "crewmate.win": { "category": "neutral", "sounds": [{ "name": "ssl:crewmate/win", "stream": false }] },
+    "doomfist.win": { "category": "neutral", "sounds": [{ "name": "ssl:doomfist/win", "stream": false }] },
+    "goku.win": { "category": "neutral", "sounds": [{ "name": "ssl:goku/win", "stream": false }] },
+    "mario.win": { "category": "neutral", "sounds": [{ "name": "ssl:mario/win", "stream": false }] },
+    "pokemon.win": { "category": "neutral", "sounds": [{ "name": "ssl:pokemon/win", "stream": false }] },
+    "link.win": { "category": "neutral", "sounds": [{ "name": "ssl:link/win", "stream": false }] },
+    "bomberman.win": { "category": "neutral", "sounds": [{ "name": "ssl:bomberman/win", "stream": false }] },
+    "yasuo.win": { "category": "neutral", "sounds": [{ "name": "ssl:yasuo/win", "stream": false }] },
+    "assassin.win": { "category": "neutral", "sounds": [{ "name": "ssl:assassin/win", "stream": false }] },
+
+
+
+
+
+    "custom.random_number": {
+        "category": "neutral",
+        "sounds": [
+            { "name": "tuto_silva:custom/number/1", "stream": true, "weight": 1 },
+            { "name": "tuto_silva:custom/number/2", "stream": true, "weight": 2 },
+            { "name": "tuto_silva:custom/number/3", "stream": true, "weight": 1 },
+            { "name": "tuto_silva:custom/number/4", "stream": true, "weight": 1 },
+            { "name": "tuto_silva:custom/number/5", "stream": true, "weight": 2 }
+        ]
+    }
+
+}

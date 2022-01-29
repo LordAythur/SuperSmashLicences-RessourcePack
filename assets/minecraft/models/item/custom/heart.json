@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "items/heart"
+    },
+    "display": {
+        "ground": {
+            "rotation": [0, 0, 0]
+        }
+    }
+}

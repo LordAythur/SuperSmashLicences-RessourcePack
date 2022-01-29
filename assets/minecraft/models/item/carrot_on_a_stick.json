@@ -1,0 +1,86 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+
+    "overrides": [
+        { "predicate": { "custom_model_data": 1 }, "model": "item/custom/vent2" },
+        { "predicate": { "custom_model_data": 2 }, "model": "item/custom/light" },
+        { "predicate": { "custom_model_data": 3 }, "model": "item/custom/baby" },
+        { "predicate": { "custom_model_data": 4 }, "model": "item/custom/vent" },
+        { "predicate": { "custom_model_data": 5 }, "model": "item/custom/report" },
+        { "predicate": { "custom_model_data": 6 }, "model": "item/custom/kick" },
+        { "predicate": { "custom_model_data": 7 }, "model": "item/custom/hook" },
+        { "predicate": { "custom_model_data": 8 }, "model": "item/custom/flame" },
+        { "predicate": { "custom_model_data": 9 }, "model": "item/custom/buff" },
+        { "predicate": { "custom_model_data": 10 }, "model": "item/custom/uppercut" },
+        { "predicate": { "custom_model_data": 11 }, "model": "item/custom/punch" },
+        { "predicate": { "custom_model_data": 12 }, "model": "item/custom/bill" },
+        { "predicate": { "custom_model_data": 13 }, "model": "item/custom/thwomp" },
+        { "predicate": { "custom_model_data": 14 }, "model": "item/custom/flower" },
+        { "predicate": { "custom_model_data": 18 }, "model": "item/custom/ball" },
+        { "predicate": { "custom_model_data": 19 }, "model": "item/custom/attack" },
+
+
+        { "predicate": { "custom_model_data": 20 }, "model": "item/custom/invisible" },
+        { "predicate": { "custom_model_data": 21 }, "model": "item/custom/hidden_blade" },
+        { "predicate": { "custom_model_data": 22 }, "model": "item/custom/fouet" },
+        { "predicate": { "custom_model_data": 23 }, "model": "item/custom/pistol_assassin" },
+        { "predicate": { "custom_model_data": 24 }, "model": "item/custom/boom" },
+        { "predicate": { "custom_model_data": 25 }, "model": "item/custom/boom1" },
+        { "predicate": { "custom_model_data": 26 }, "model": "item/custom/boom2" },
+
+
+        { "predicate": { "custom_model_data": 27 }, "model": "item/custom/emergency/orange" },
+        { "predicate": { "custom_model_data": 28 }, "model": "item/custom/emergency/violet" },
+        { "predicate": { "custom_model_data": 29 }, "model": "item/custom/emergency/cube" },
+        { "predicate": { "custom_model_data": 30 }, "model": "item/custom/emergency/r_orange" },
+        { "predicate": { "custom_model_data": 31 }, "model": "item/custom/emergency/r_violet" },
+
+
+
+        { "predicate": { "custom_model_data": 32 }, "model": "item/custom/goku/teleportation" },
+        { "predicate": { "custom_model_data": 33 }, "model": "item/custom/goku/super_saiyan" },
+        { "predicate": { "custom_model_data": 34 }, "model": "item/custom/goku/kamea" },
+
+        { "predicate": { "custom_model_data": 35 }, "model": "item/custom/pokemon/attack" },
+        { "predicate": { "custom_model_data": 36 }, "model": "item/custom/pokemon/vol" },
+        { "predicate": { "custom_model_data": 37 }, "model": "item/custom/pokemon/ball" },
+
+
+        { "predicate": { "custom_model_data": 38 }, "model": "item/custom/yasuo/tornade" },
+        { "predicate": { "custom_model_data": 39 }, "model": "item/custom/yasuo/wind_wall" },
+        { "predicate": { "custom_model_data": 40 }, "model": "item/custom/yasuo/wind_up" },
+
+
+
+        { "predicate": { "custom_model_data": 98 }, "model": "item/custom/thwompfat" },
+        { "predicate": { "custom_model_data": 99 }, "model": "item/custom/billfat" }
+    ],
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [0, 90, 42],
+            "translation": [0, 2.75, 0.75],
+            "scale": [0.9, 0.9, 0.9]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [90, -90, 42],
+            "translation": [0, 2.75, 0.75],
+            "scale": [0.9, 0.9, 0.9]
+        },
+        "firstperson_righthand": {
+            "rotation": [0, 90, 50],
+            "translation": [1.13, 3.5, 1.13],
+            "scale": [1, 1, 1]
+        },
+        "firstperson_lefthand": {
+            "rotation": [0, -90, -25],
+            "translation": [1.13, 3.2, 1.13],
+            "scale": [1, 1, 1]
+        },
+        "ground": {
+            "rotation": [180, 0, -90]
+        }
+    }
+}
